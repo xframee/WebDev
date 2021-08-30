@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header .mainOverskrift {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 50px 0px 50px 0px
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: dodgerblue;
+}
+
+.flex-container div {
+    background-color: grey;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.flex-container h2 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
